@@ -19,7 +19,7 @@ This repository implements two bandit algorithms, Thompson Sampling and Upper Co
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your_username>/Facebook-Ads-Bandit-Algorithms.git
+   git clone https://github.com/ar-archith/Facebook-Ads-Bandit-Algorithms.git
 2. **Install Libraries:**
    ```bash
    pip install numpy pandas matplotlib
